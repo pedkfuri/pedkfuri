@@ -12,7 +12,7 @@
 [![pedkfuri's github stats](https://github-readme-stats.vercel.app/api?username=pedkfuri&show_icons=true&hide_border=true)](https://github.com/pedkfuri)
 
 ### 🔭 Currently working on:
-- Plataforma Round (@dtidigital)
+- [**Plataforma Round**](https://github.com/plataforma-round) (@dtidigital)
 - [**Fantasias**](https://github.com/pedkfuri/fantasias-api)
 
 ### 🌱 Currently learning
