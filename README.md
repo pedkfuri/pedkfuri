@@ -9,8 +9,6 @@
 
 <!-- [![Github Followers](https://img.shields.io/github/followers/pedkfuri?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/pedkfuri?tab=followers) -->
 
-[![pedkfuri's github stats](https://github-readme-stats.vercel.app/api?username=pedkfuri&show_icons=true&hide_border=true&count_private=true)](https://github.com/pedkfuri)
-
 ### 🔭 Currently working on:
 - [**Plataforma Round**](https://github.com/plataforma-round) (@dtidigital)
 
