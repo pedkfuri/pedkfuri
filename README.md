@@ -11,7 +11,4 @@
 - Automated Testing
 - Pentesting
 
-### 👯 I’m looking forward to collaborate on
-- Translating and collaborating on [**Sonic Pi**](https://github.com/sonic-pi-net/sonic-pi)
-
 #### Based on [**utilForever profile description**](https://github.com/utilForever/utilForever/blob/master/README.md)
