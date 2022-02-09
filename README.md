@@ -6,8 +6,9 @@
 💻 Currently working on [**Plataforma Round**](https://github.com/plataforma-round) (@dtidigital)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedkfuri/)](https://www.linkedin.com/in/pedkfuri/)
+
 
 <h3 align="left">🌱 Interests:</h3>
 <p>- Back-end</p>
@@ -16,7 +17,7 @@
 <p>- Pentesting</p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/pedkfuri"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="pedkfuri" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/pedkfuri"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="140" alt="pedkfuri" /></a></p><br><br>
 
 <h1></h1>
 
