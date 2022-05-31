@@ -1,29 +1,18 @@
-<h1 align="center">Pedro Kfuri 👋</h1>
-<!-- <h3 align="center"></h3> -->
+### 👋 Welcome!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedkfuri&label=Profile%20views&color=0e75b6&style=flat" alt="pedkfuri" /> </p>
+About me:
 
-💻 Currently working on [**Plataforma Round**](https://github.com/plataforma-round) (@dtidigital)
+- 🔭 Currently working @ [dtidigital](https://www.dtidigital.com.br/) as a Software Engineer
+- :trophy: Software Engineer with 5+ ys. work experience
+- :muscle: I'm interested in Software Architecture, Back-end engineering, Cloud and Software Testing
+- 💬 Ask me about: Development and Music
 
-<h3 align="left">Connect with me:</h3>
+---
+
+#### Check my contributions
+
+[![Pedro Kfuri GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pedkfuri?cardType=level&theme=vision-friendly-dark)](https://git.io/awesome-stats-card)
+
+#### Follow me on my social networks:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedkfuri/)](https://www.linkedin.com/in/pedkfuri/)
-
-
-<h3 align="left">🌱 Interests:</h3>
-<p>- Back-end</p>
-<p>- Music Livecoding (Foxdot, Supercollider)</p>
-<p>- Automated Testing</p>
-<p>- Pentesting</p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/pedkfuri"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="140" alt="pedkfuri" /></a></p><br><br>
-
-<h1></h1>
-
-<p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedkfuri&show_icons=true&locale=en&layout=compact" alt="pedkfuri" width="300" />
-</p>
-
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pedkfuri&" alt="pedkfuri" width="350" /></p>
