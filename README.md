@@ -3,7 +3,7 @@
 About me:
 
 - 🔭 Currently working @ [dtidigital](https://www.dtidigital.com.br/) as a Software Engineer
-- :trophy: Software Engineer with 5+ ys. work experience
+- :trophy: Software Engineer with 6+ ys. work experience
 - :muscle: I'm interested in Software Architecture, Back-end engineering, Cloud and Software Testing
 - 💬 Ask me about: Development and Music
 
